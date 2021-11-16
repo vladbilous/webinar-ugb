@@ -1,0 +1,248 @@
+@media (max-width: 1300px) {
+    .webinar {
+        padding: 0 50px;
+    }
+    * {
+        font-size: 25px;
+    }
+    h2 {
+        font-size: 35px;
+    }
+    .number-count {
+        font-size: 75px;
+    }
+    .register-to-30 span {
+        font-size: 35px;
+    }
+
+
+}
+
+@media (max-width: 900px) {
+    .webinar {
+        padding: 0 30px;
+    }
+    * {
+        font-size: 18px;
+    }
+    .banner-invite .invite-block {
+        padding: 20px 0;
+    }
+    .banner-invite .round-dot,  .register-to-30 .round-dot {
+        height: 8px;
+        width: 8px;
+        margin: 0 13px 4px;
+    }
+    .block2-content p.finance-pr {
+        padding: 20px 0;
+    }
+    .finance-pr {
+        border: 2px solid;
+    }
+    .block2-content p.finance-pr-block {
+        padding: 20px 0;
+    }
+    .finance-pr-block {
+        border: 2px solid;
+    }
+    .block2-content p {
+        padding: 5px 0;
+    }
+    .ic-left {
+        width: 23px;
+    }
+    .ic-right {
+        width: 16px;
+    }
+    .block3-content {
+        padding: 30px 0;
+    }
+    .block4 {
+        padding: 30px 0;
+    }
+    .chell {
+        width: 50px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    .what-you-know {
+        margin-top: 60px;
+    }
+    .number-count {
+        font-size: 50px;
+    }
+
+    .register-in-webinar {
+        padding: 16px 36px;
+    }
+    .register-block {
+        padding: 37px 0 23px;
+    }
+    .register-to-30 span {
+        font-size: 23px;
+    }
+    .register-to-30 {
+        padding: 20px 0;
+    }
+    .block6-content {
+        width: 73%;
+        padding: 25px 0;
+    }
+    .director-signature {
+        border-top: 1px solid;
+        border-bottom: 1px solid;
+    }
+    /*.ifc-logo {*/
+    /*    float: right;*/
+    /*    margin-top: 20px;*/
+    /*}*/
+    .logo-ugb {
+        /*margin: 0 0 18px 0;*/
+    }
+}
+
+@media (max-width: 600px) {
+
+    * {
+        font-size: 13px;
+        line-height: 1.2;
+    }
+    .webinar {
+        padding: 0 10px;
+    }
+    .banner-invite .round-dot, .register-to-30 .round-dot {
+        height: 5px;
+        width: 5px;
+        margin: 0 7px 2px;
+    }
+    .block2-content {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .finance-pr {
+        border: 1px solid;
+    }
+    .finance-pr-block {
+        border: 1px solid;
+    }
+    .arr-bottom {
+        margin: -1px 0 5px 0;
+        width: 19px;
+    }
+    .arr-bottom-green {
+        margin: -1px 0 5px 0;
+        width: 19px;
+    }
+    .block2-content p.finance-pr {
+        padding: 10px 0;
+    }
+    .block2-content p.finance-pr-block {
+        padding: 10px 0;
+    }
+    .block3-content {
+        padding: 20px 0;
+    }
+    .block3-1, .block3-2 {
+        width: 50%;
+        text-align: center;
+        padding: 0 5px;
+    }
+    .block4 {
+        padding: 20px 0;
+    }
+    h2 {
+        font-size: 16px;
+    }
+    .chell {
+        width: 34px;
+    }
+    .chell-block {
+        padding: 15px 0;
+    }
+    /*.what-you-know {*/
+    /*    margin-top: 20px;*/
+    /*}*/
+    .number-count {
+        font-size: 29px;
+    }
+    .numbers-blocks1-3 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .register-in-webinar {
+        padding: 11px 28px;
+    }
+    .banner-invite .round-dot, .register-to-30 .round-dot {
+        height: 3px;
+        width: 3px;
+        margin: 0 4px 2px;
+    }
+    .register-to-30 span {
+        font-size: 11px;
+    }
+    .block6-content {
+        width: 73%;
+        padding: 20px 0;
+    }
+    .p-betw {
+        padding: 15px 0;
+    }
+    .director-signature {
+        padding: 10px 0;
+        margin: 10px 0;
+    }
+    /*.ifc-logo {*/
+    /*    float: right;*/
+    /*    margin-top: 10px;*/
+    /*}*/
+    footer img {
+        width: 24%;
+    }
+    .button-block button {
+        padding: 13px 40px;
+    }
+    input {
+        width: -webkit-fill-available;
+    }
+    footer {
+        margin-bottom: 30px;
+    }
+    .logo-ugb {
+        /*margin: 0 0 8px 0;*/
+    }
+    .reg-footer {
+        padding-top: 20px;
+    }
+    .block7 {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .info-reg {
+        margin-top: 30px;
+    }
+    .info-reg p {
+        margin: 0;
+    }
+    .invite-block-prg .round-dot{
+        height: 3px;
+        width: 3px;
+        margin: 0 4px 2px;
+    }
+    .green-line {
+        height: 2px;
+        width: 100%;
+        margin: 15px 0;
+    }
+    .time {
+        padding: 0 10px;
+    }
+    .img-speak {
+        margin-bottom: -8px;
+        padding: 0 10px;
+        width: 24px;
+    }
+    .block-text {
+        margin-left: 10px;
+    }
+}

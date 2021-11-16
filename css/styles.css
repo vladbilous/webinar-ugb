@@ -1,0 +1,352 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+    font-family: futurap-book;
+    letter-spacing: 1.2px;
+}
+@font-face {
+    font-family: "futurap-bold";
+    src: url("../fonts/futura-pt-demi.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "futurap-book";
+    src: url("../fonts/ofont_Futura_PT-book.ttf");
+}
+.futurap-bold {
+    font-family: "futurap-book";
+
+}
+.font-weight600 {
+    font-weight: 600;
+}
+
+
+.webinar {
+    padding: 0 150px;
+}
+.banner {
+    width: 100%;
+    line-height: 0;
+}
+.banner-invite .invite-block {
+    padding: 40px 0;
+    background-color: #395760;
+    text-align: center;
+}
+.banner-invite .invite-block span {
+    color: white;
+    font-family: "futurap-bold";
+
+}
+.banner-invite {
+    line-height: 0;
+}
+.banner-invite .round-dot {
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: white;
+    margin: 0 24px 4px;
+    font-weight: 600;
+}
+.block2 {
+    /*background-color: #00ac4f;*/
+    text-align: center;
+    /*color: white;*/
+}
+.color-white {
+    color: white;
+}
+.finance-pr {
+    text-transform: uppercase;
+    /*padding: 0 16%;*/
+    border: 4px solid;
+    margin: auto;
+    width: 100%;
+}
+.finance-pr-block {
+    text-transform: uppercase;
+    /*padding: 0 16%;*/
+    border: 4px solid #00ac4f;
+    margin: auto;
+    width: 100%;
+}
+.block2-content p.finance-pr {
+    padding: 40px 0;
+}
+.block2-content p.finance-pr-block {
+    padding: 40px 0;
+}
+.block2-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.arr-bottom {
+    margin: 0 0 16px 0;
+}
+.arr-bottom-green {
+    margin: -1px 0 16px 0;
+}
+.block2-content p{
+    padding: 10px 0;
+}
+.ic-left {
+    width: 45px;
+}
+.ic-right {
+    width: 30px;
+}
+.what-you-know {
+    margin-top: 120px;
+}
+.block3 {
+    /*background-color: #395760;*/
+    color: white;
+}
+.block3-content {
+    display: flex;
+    padding: 55px 0;
+}
+.block3-1, .block3-2 {
+    width: 50%;
+    text-align: center
+}
+h2 {
+    font-size: 54px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
+.block4 {
+    padding: 75px 0;
+}
+.chell-block {
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+.number-count {
+    font-size: 108px;
+    color: #00ac4f;
+}
+.number-block {
+    text-align: center;
+    width: 32.3%;
+    padding: 0 1%;
+}
+.numbers-blocks1-3 {
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.numbers-blocks4-6 {
+    display: flex;
+}
+.register-in-webinar {
+    background-color: #00ac4f;
+    color: white;
+    text-decoration: unset;
+    border-radius: 50px;
+    padding: 25px 93px;
+}
+.register-block {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.register-to-30 {
+    padding: 40px 0;
+    background-color: #00ac4f;
+    text-align: center;
+}
+.register-to-30 span {
+    color: white;
+    font-family: "futurap-bold";
+    font-size: 51px;
+
+}
+.register-to-30 .round-dot {
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: white;
+    margin: 0 24px 4px;
+    font-weight: 600;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.block6 {
+    background-color: #39565f;
+    color: white;
+}
+.block6-content {
+    width: 65%;
+    margin: auto;
+    text-align: center;
+    padding: 65px 0;
+}
+.online-href {
+    color: white;
+}
+
+.grass {
+    width: 100%;
+}
+.p-betw {
+    padding: 30px 0;
+}
+.block7 {
+    text-align: center;
+    margin-top: 50px;
+}
+.director-signature {
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+    padding: 30px 0;
+    margin: 50px 0;
+}
+.federal-logo {
+    padding: 0 10% 0 14%;
+}
+.ifc-logo {
+    float: right;
+    /*margin-top: 57px*/
+}
+footer img {
+    width: 25%;
+}
+.block6-cont {
+    padding: 40px 0;
+}
+.reg-footer {
+    padding-top: 50px;
+}
+.green {
+    color: #00ac4f;
+}
+input {
+    width: 100%;
+    border: unset;
+    background-color: #d5e3e4;
+    border-radius: 18px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.obov {
+    margin-bottom: 30px;
+}
+.button-block button{
+    color: white;
+    text-transform: uppercase;
+    background-color: #00ac4f;
+    padding: 27px 104px;
+    border-radius: 50px;
+    border: unset;
+    cursor: pointer;
+}
+.button-block {
+    text-align: center;
+}
+.contact-form {
+    width: 80%;
+    margin: auto;
+}
+.logo-ugb {
+    /*margin: 0 0 37px 0;*/
+    float: left;
+}
+footer {
+    margin-bottom: 100px;
+}
+.chell-text {
+    text-align: center;
+}
+.logos-footer {
+    display: flow-root;
+}
+.in-part {
+    text-align: center;
+    color: #616161;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.back-green {
+    background-color: #00ac4f;
+}
+.info-reg {
+    margin-top: 70px;
+}
+.info-reg p {
+    margin: 5px 0;
+}
+.invite-block-prg {
+    margin-top: 45px;
+}
+.invite-block-prg .round-dot {
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: #395760;
+    margin: 0 24px 4px;
+    font-weight: 600;
+}
+.invite-block-prg span {
+    color: #395760;
+    font-weight: 600;
+}
+
+.block-time-info1 {
+    padding: 30px 0 26px;
+    display: flex;
+    display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+    display: -ms-flexbox;  /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+}
+
+.font-weight600 {
+    font-weight: 600;
+}
+
+.background-color395760{
+    background-color: #395760;
+}
+.background-color4a8a41 {
+    background-color: #4a8a41;
+
+}
+
+.color-black {
+    color: black;
+}
+
+.info-time {
+    /*margin-left: 60px;*/
+}
+.green-line {
+    height: 4px;
+    width: 100%;
+    margin: 20px 0;
+    background-color: #4a8a41;
+}
+.time {
+    padding: 0 50px;
+}
+.img-speak {
+    margin-bottom: -8px;
+    padding: 0 20px;
+}
+.list {
+    margin-left: 30px;
+}
+
+.list li {
+    color: #00ac4f; /* Цвет маркеров */
+}
+.list li span {
+    color: black /* Цвет текста */
+}
+.it-line2 {
+}
